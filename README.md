@@ -9,8 +9,8 @@
 
 <div>
     <a herf="https://github.com/tothpng">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tothpng&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng&layout=compact&show_icons=true&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tothpng&show_icons=true&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng&layout=compact&show_icons=true&theme=tokyonight"/>
 </div>
 
 ### Atualmente estou estudando e programando com:
