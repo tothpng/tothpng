@@ -19,7 +19,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng&layout=compact&show_icons=true&theme=tokyonight"/>
 </div>
 
-### • 🚧 Atualmente estou estudando e programando com as seguintes linguagens::
+### • 🚧 Atualmente estou estudando e programando com as seguintes linguagens:
 
 <div sytle="display: inline_block"><br/>
     <img alig="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
