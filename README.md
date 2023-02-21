@@ -1,3 +1,4 @@
+
 ### Opa me chamo Gabriel Toth 🧑🏻‍💻
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -7,7 +8,7 @@
 
 ![Toth.png GitHub stats](https://github-readme-stats.vercel.app/api?username=tothpng&show_icons=true&theme=tokyonight)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programo em
 
