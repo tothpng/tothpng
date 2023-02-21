@@ -1,5 +1,12 @@
+• 🧑🏻‍💻 Me chamo Gabriel Toth.
 
-### Opa me chamo Gabriel Toth 🧑🏻‍💻
+• 📚 Atualmente estudo Front-End e um pouco de Back-End.
+
+• 🖥️ Programo no Visual Studio Code e Pycharm.
+
+• 💻 Brevemente quero trabalhar com Front-End.
+
+• 🔗 https://ayo.so/tothpng
 
 <div sytle="display: inline_block"><br/>
     <a href="https://www.instagram.com/toth.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
