@@ -1,10 +1,10 @@
 ### • 🧑🏻‍💻 Me chamo Gabriel Toth.
 
-### • 📚 Atualmente estudo Front-End e um pouco de Back-End.
+### • 📚 Atualmente estudo Front e Back-End.
 
 ### • 🖥️ Programo no Visual Studio Code e Pycharm.
 
-### • 💻 Brevemente quero trabalhar com Front-End.
+### • 💻 Brevemente quero trabalhar com Front e Back-End.
 
 ### • 🔗 https://ayo.so/tothpng
 
