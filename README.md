@@ -17,8 +17,8 @@
 
 <div>
     <a herf="https://github.com/tothpng">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tothpng&show_icons=true&theme=tokyonight"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng&layout=compact&show_icons=true&theme=tokyonight"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tothpng1&show_icons=true&theme=tokyonight"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng1&layout=compact&show_icons=true&theme=tokyonight"/>
 </div>
 
 ### • 🚧 Atualmente estudo as seguintes linguagens:
