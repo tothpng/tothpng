@@ -1,12 +1,10 @@
 ### • 🧑 Me chamo Gabriel Toth.
 
-### • 📚 Atualmente estudo Java.
-
-### • 💻 Brevemente quero trabalhar com Java e Banco de dados.
-
-### • 🖥️ Programo no Visual Studio Code.
+### • 📚 Atualmente estudo Backend com Java.
 
 ### • 🔗 https://ayo.so/tothpng
+
+### • 👾 https://www.dio.me/users/toth_png
 
 ### • 🚀 https://app.rocketseat.com.br/me/tothpng
 
