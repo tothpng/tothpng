@@ -2,7 +2,7 @@
 
 ### • 📚 Atualmente estudo Backend com Java.
 
-### • 🔗 https://ayo.so/tothpng
+### • 🔗 https://konect.gg/tothpng
 
 ### • 👾 https://www.dio.me/users/toth_png
 
