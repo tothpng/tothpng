@@ -3,23 +3,22 @@
 
 ---
 
-### • ✅ Concluí recentemente o Bootcamp de Backend com Java
+### • ✅ Concluí recentemente o Bootcamp de Backend com Java  
+### • 🎯 Buscando uma vaga no Santander Bootcamp 2025 – Front-end  
 
-### • 🎯 No momento, estou tentando conquistar uma vaga no Santander Bootcamp 2025 – Front-end
+---
 
 ### • 🌐 Me acompanhe:
 - 👾 [DIO - Digital Innovation One](https://www.dio.me/users/toth_png)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tothpng/)
 - 🧩 Portfólio (em breve!)
 
-<div align="center" style="display: inline_block">
-  <a href="https://www.instagram.com/toth.png/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://twitter.com/tothpng" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-</div>
+---
+
+### • 🌍 Redes Sociais:
+- 📸 [Instagram](https://www.instagram.com/tothpng/)
+- 🐦 [@X - Twitter](https://x.com/tothpng)
+- ▶️ [YouTube](https://www.youtube.com/@tothpng)
 
 ---
 
@@ -34,9 +33,16 @@
 
 ---
 
-### • 🚧 Tecnologias que tenho estudado:
+### • 🛠️ Tecnologias com as quais trabalho:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
