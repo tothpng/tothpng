@@ -51,23 +51,8 @@ Atualmente, estou buscando oportunidades para continuar evoluindo como desenvolv
 
 <div align="center">
   <a href="https://github.com/tothpng">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tothpng&show_icons=true&theme=tokyonight&hide_border=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tothpng&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
-
----
-
-### 📂 Projetos em Destaque
-
-Aqui você pode listar os principais projetos em que está trabalhando ou já trabalhou. Coloque um link para o repositório e uma breve descrição de cada projeto.
-
-1. [**Projeto Exemplo 1**](https://github.com/tothpng/projeto1) - Descrição breve do projeto e as tecnologias utilizadas.
-2. [**Projeto Exemplo 2**](https://github.com/tothpng/projeto2) - Descrição breve do projeto e as tecnologias utilizadas.
-
----
-
-### 📚 Contribuições
-
-Se você tem contribuições para projetos open source ou outras formas de colaboração, esse é um bom lugar para destacar.
 
