@@ -1,39 +1,37 @@
 <h1 align="center">Olá! Eu sou o Gabriel Toth 👨‍💻</h1>
-<h3 align="center">Mais conhecido como <strong>Tothpng</strong> nas redes 👾</h3>
+<h3 align="center">Conhecido como <strong>Tothpng</strong> nas redes 👾</h3>
 
 ---
 
-### • ✅ Concluí recentemente o Bootcamp de Backend com Java  
-### • 🎯 Buscando uma vaga no Santander Bootcamp 2025 – Front-end  
+### 🚀 Sobre Mim
+Sou **Desenvolvedor Full Stack Júnior** com foco em **Front-end** moderno, mas com experiência prática também em **Back-end** e **infraestrutura**. Trabalho com tecnologias como **Next.js**, **React**, **TypeScript**, **Tailwind CSS** e **shadcn/ui**, buscando sempre criar soluções eficientes, otimizadas e com excelente experiência para o usuário. 
+
+Atualmente, estou me aprofundando em **Next.js** e **React 18** para projetos escaláveis e responsivos. Tenho também experiência com **banco de dados** (como **Supabase** e **SQL**), além de integração com **APIs REST** e hospedagem via **VPS**. 
+
+Meu foco está 100% no desenvolvimento, aplicando boas práticas de **SEO**, **acessibilidade** e sempre buscando melhorar minhas habilidades técnicas.
 
 ---
 
-### • 🌐 Me acompanhe:
+### 🎯 Objetivo
+Atualmente, estou buscando oportunidades para continuar evoluindo como desenvolvedor, com foco na criação de aplicações web de alta performance e experiência.
+
+---
+
+### 🌐 Me acompanhe:
 - 👾 [DIO - Digital Innovation One](https://www.dio.me/users/toth_png)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tothpng/)
-- 🧩 Portfólio (em breve!)
+- 🧩 [Portfólio](https://www.tothdev.lat/)
 
 ---
 
-### • 🌍 Redes Sociais:
+### 🌍 Redes Sociais:
 - 📸 [Instagram](https://www.instagram.com/tothpng/)
 - 🐦 [@X - Twitter](https://x.com/tothpng)
 - ▶️ [YouTube](https://www.youtube.com/@tothpng)
 
 ---
 
-### • 🚀 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/tothpng">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tothpng&show_icons=true&theme=tokyonight&hide_border=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
----
-
-### • 🛠️ Tecnologias com as quais trabalho:
+### 🛠️ Tecnologias com as quais trabalho:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -46,3 +44,30 @@
   <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/tothpng">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tothpng&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothpng&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+---
+
+### 📂 Projetos em Destaque
+
+Aqui você pode listar os principais projetos em que está trabalhando ou já trabalhou. Coloque um link para o repositório e uma breve descrição de cada projeto.
+
+1. [**Projeto Exemplo 1**](https://github.com/tothpng/projeto1) - Descrição breve do projeto e as tecnologias utilizadas.
+2. [**Projeto Exemplo 2**](https://github.com/tothpng/projeto2) - Descrição breve do projeto e as tecnologias utilizadas.
+
+---
+
+### 📚 Contribuições
+
+Se você tem contribuições para projetos open source ou outras formas de colaboração, esse é um bom lugar para destacar.
+
